@@ -1,0 +1,6 @@
+name: HCPVP
+version: 1.1
+main: HeavensCraft.hcPVP
+commands:
+    PVP:
+    adminpvp:

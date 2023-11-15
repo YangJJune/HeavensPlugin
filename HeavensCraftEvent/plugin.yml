@@ -1,0 +1,7 @@
+name: HCEvent
+version: 1.0
+main: HeavensCraft.HCEvent
+
+commands:
+    이벤트:
+    한정드랍:

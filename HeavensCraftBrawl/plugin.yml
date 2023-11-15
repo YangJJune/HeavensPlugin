@@ -1,0 +1,8 @@
+name: HCBrawl
+version: 1.0
+main: HeavensCraft.hcBrawl
+commands:
+    pvp난투:
+    난투:
+
+depend: [Essentials]
