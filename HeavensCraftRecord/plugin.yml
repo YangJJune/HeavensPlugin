@@ -1,0 +1,21 @@
+name: HCrecord
+version: 1.0
+main: HeavensCraft.hcRecord
+commands:
+    hcrecord:
+    hcrecordfinal:
+    카지노:
+    복권:
+    야생:
+    랜덤텔포:
+    워프:
+    GUI워프:
+    던전:
+    튜토리얼:
+    제거:
+    제단:
+    admin:
+    bossdeath1:
+    후원:
+    후원상점:
+    축구:

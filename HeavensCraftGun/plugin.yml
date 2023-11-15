@@ -1,0 +1,24 @@
+name: HCGun
+version: 1.0
+main: HeavensCraft.HCGunMain
+
+commands:
+  GiveGun:
+  칭호추가신청:
+  총기상점:
+  도구수리:
+  블럭보호:
+  벼룩시장:
+  돈:
+  집:
+  도움말:
+  귀환:
+  디스코드:
+  디코:
+  마인리스트:
+  후원:
+  출석체크:
+  출첵:
+  워프:
+  워프게이트:
+  GUI워프:

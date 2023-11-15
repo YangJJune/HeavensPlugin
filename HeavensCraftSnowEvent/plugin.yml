@@ -1,0 +1,7 @@
+name: HCSnowEvent
+version: 1.0
+main: HeavensCraft.hcSnowEvent
+commands:
+    발렌타인상점:
+    발렌타인교환:
+    미니게임상점:

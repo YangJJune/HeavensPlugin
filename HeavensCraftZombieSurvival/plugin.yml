@@ -1,0 +1,6 @@
+name: HCZombieSurvival
+version: 1.0
+main: HeavensCraft.hcZombieSurvival
+
+commands:
+    좀서:

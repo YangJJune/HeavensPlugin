@@ -1,0 +1,5 @@
+name: HCBUILD
+version: 1.0
+main: HeavensCraft.hcbuild
+commands:
+    건축포인트:
